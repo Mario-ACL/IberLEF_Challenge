@@ -16,6 +16,6 @@ Made by:
 - Mario Alejandro Castro Lerma
 - Gabriel Santiago Robles Robles
 - Jesus Antonio Flores Briones
-- GU
+- Jehu Jonathan Ramirez Ramirez
 
 This was done for an assignment for MCD
